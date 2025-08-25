@@ -27,11 +27,14 @@ AiHub/ <br>
    git clone https://github.com/OlixIgnacious/AiHub.git
    cd AiHub
    ```
-	2.	Explore datasets
-Browse through the Dataset/ folder to review available datasets. Feel free to add more as your collection grows.
-	3.	Run project notebooks
+
+2.	Explore datasets
+	Browse through the Dataset/ folder to review available datasets. Feel free to add more as your collection grows.
+
+3.	Run project notebooks
 Head into the Projects/ directory, open the relevant notebook (e.g., analysis.ipynb), and run the cells—usually after setting up your Python environment.
-	4.	Add a new project
+
+4.	Add a new project
 	•	Place your dataset under Dataset/
 	•	Create a new directory under Projects/ with:
 	•	A notebook or script implementing your idea
