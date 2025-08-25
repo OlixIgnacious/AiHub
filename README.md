@@ -6,11 +6,11 @@
 
 ## Repository Structure
 
-AiHub/
-├── Dataset/
-│   └── …        # Raw and processed datasets
-└── Projects/
-└── …        # Project notebooks, analysis, and reports
+AiHub/ <br> 
+├── Dataset/ <br> 
+│   └── …        # Raw and processed datasets <br> 
+└── Projects/ <br> 
+└── …        # Project notebooks, analysis, and reports<br> 
 
 - **Dataset/**  
   Contains source data and cleaned datasets used across AI projects. Organize by dataset name or project domain. Suggested files include `.csv`, `.parquet`, or `.json`.
